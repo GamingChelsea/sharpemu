@@ -638,6 +638,7 @@ public sealed partial class DirectExecutionBackend
 			"7H0iTOciTLo" or
 			"2Z+PpY6CaJg" or
 			"8aI7R7WaOlc" or
+			"zgXifHT9ErY" or // sceVideoOutIsFlipPending
 			"a8uLzYY--tM" or
 			"Qs1xtplKo0U" or
 			"GuchCTefuZw" or
@@ -659,6 +660,7 @@ public sealed partial class DirectExecutionBackend
 			"Vo5V8KAwCmk" or // sceSystemServiceHideSplashScreen
 			"TywrFKCoLGY" or // sceSaveDataInitialize3
 			"dyIhnXq-0SM" or // sceSaveDataDirNameSearch
+			"jO8DM8oyego" or // sceNpEntitlementAccessInitialize
 			"27bAgiJmOh0" or // pthread_cond_timedwait
 			"iQw3iQPhvUQ" or // sceNetCtlCheckCallback
 			"Q2V+iqvjgC0" or // vsnprintf
